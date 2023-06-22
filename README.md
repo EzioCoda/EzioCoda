@@ -1,4 +1,8 @@
-Beginner programmer with experience in C, Arduino, HTML, CSS, and GDScript
+Beginner programmer with experience in C, Arduino, HTML, CSS, and GDScript;
+
+2D and 3D artist and musician;
+
+
 
 <!--
 **EzioCoda/EzioCoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
